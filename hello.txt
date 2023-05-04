@@ -1,1 +1,1 @@
- OneDrive/Desktop/Git/git_practice/mySoftware: path
+Path :- OneDrive/Desktop/Git/git_practice/mySoftware
